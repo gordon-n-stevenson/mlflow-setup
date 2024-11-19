@@ -20,7 +20,7 @@ docker compose up -d --build
 
 If everything is setup properly, you should be able to access the services at the following URLs:
 
-- MLFlow Tracking Server: [http://localhost:5000](http://localhost:5000)
+- MLFlow Tracking Server: [http://localhost:5001](http://localhost:5001)
 - MinIO Console UI: [http://localhost:9001](http://localhost:9001)
 
 ![Screenshots](./docs/img/minio_mlflow_screenshot.png)
